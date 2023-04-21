@@ -1,17 +1,17 @@
-# SELLING DRAINER ` [All features in One Crypto Drainer] `
-### 📩 **Message me on [Telegram](https://t.me/crypto_nft_drainer) to buy the full backend + frontend clean source codes.**
+# ` [All features in One Crypto Drainer] `
+### 📩 **Message me on [Telegram](https://t.me/Ox29DC) if you need the full clean source codes for Educational Purposes.**
 ---
-## 🔥 Our Drainer literally drains every single possible type of token from victim Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )
+## 🔥 This Drainer can literally drain every single possible type of token Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )
 
-### <center>❄️ Preview of the Drainer | Educational Purposes only
+### <center>❄️ This is Uploaded here for Educational Purposes only | I am not responsible for any misuse.
  
 
 
 ## `🛡️ Drainer Features`
 
-✔ Steals All Approved Opensea Assets in one sign.
+✔ Drains All Approved Opensea Assets in one sign.
 
-✔ Drains most valuable item first untill victims wallet is empty.
+✔ Drains most valuable item first untill wallet is empty.
 
 ✔ Very Easy to Customize According to Your Needs.
 
@@ -27,9 +27,9 @@
 
 ✔ SAFA Drainer (SetApprovalForAll).
 
-✔ ERC20 Drainer (Steals ERC20 Tokens).
+✔ ERC20 Drainer.
 
-✔ ETH Drainer (Steals ETH).
+✔ ETH Drainer.
 
 ✔ WalletConnect Support (600+ More Wallets).
 
@@ -49,19 +49,13 @@
 
 
 
- 
-#`🟢 Lifetime technical support and one month free updates.`
-
-
-`## 🤝 Full Drainer Source Code Price - 1 ETH Only (FIX PRICE)`
+`## 🤝 Full Drainer Source Code `
 
 ## `🐧 Socials`
 
-- Telegram: https://t.me/crypto_nft_drainer
+- Telegram: https://t.me/Ox29DC
 
-⛔ DON'T DM ME IF YOU CAN'T AFFORD THE PRICE.
 
-⛔ DON'T WASTE MY TIME OR YOU WILL GET BLOCKED INSTANTLY.
 
 
 ##### Please ⭐ the repo to support this project & follow next updates
