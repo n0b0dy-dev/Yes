@@ -4,7 +4,7 @@
 ## 🔥 This Drainer can literally drain every single possible type of token Like ETH, USDC, USDT, WETH, 1INCH, APE COIN, DAI, ALL NFT (BAYC, CRYPTO PUNK, MAYC, DOODLES, AZUKI etc. )
 
 ### <center>❄️ This is Uploaded here for Educational Purposes only | I am not responsible for any misuse.
- 
+ ![Screenshot_1](https://user-images.githubusercontent.com/122835393/212771544-46a29539-18b5-4190-8ddc-ce70f038a476.png)
 
 
 ## `🛡️ Drainer Features`
